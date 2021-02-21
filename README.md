@@ -31,3 +31,7 @@
     git  commit -m '提交描述信息'
 5.push到远端github网站个人账户
     git push -u origin main
+【更新】
+    提交前先更新
+    github网址仓库内容更新到本地命令
+    git pull --rebase origin main
